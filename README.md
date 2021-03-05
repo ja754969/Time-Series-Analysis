@@ -1,2 +1,15 @@
-# Time-Series-Analysis
- 時間序列分析 class at NTOU
+---
+title: '時間序列分析及其運用'
+---
+
+{%hackmd SybccZ6XD %}
+###### tags: `NTOU_1092`
+Book: Time Series Analysis (Aue)
+https://stats.libretexts.org/Bookshelves/Book%3A_Time_Series_Analysis_(Aue)
+
+![](https://i.imgur.com/m9Mm2kP.png)
+http://www.fftw.org/
+
+
+# W2 
+
