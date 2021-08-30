@@ -2,6 +2,9 @@
 title: '時間序列分析及其運用'
 ---
 
+[![hackmd-github-sync-badge](https://hackmd.io/pPCqdn6tSd-xeSLv-7kOqQ/badge)](https://hackmd.io/pPCqdn6tSd-xeSLv-7kOqQ)
+
+
 {%hackmd SybccZ6XD %}
 ###### tags: `NTOU_1092`
 Book: Time Series Analysis (Aue)
